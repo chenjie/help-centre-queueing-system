@@ -1,4 +1,7 @@
 # help-centre-queueing-system
+
+[![GitHub license](https://img.shields.io/github/license/jellycsc/help-centre-queueing-system.svg)](https://github.com/jellycsc/help-centre-queueing-system/blob/master/LICENSE)
+
 UofT Department of Computer Science (DCS) undergraduate help centre queueing system C implementation. This is *NOT* the actual code that is running for the help centre on the second floor of Bahen.
 
 ## Getting Started
