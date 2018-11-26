@@ -110,6 +110,7 @@ Error: Invalid TA name.
 
 * Test and run this in the real environment.
 * Memory leak can be a big issue in the real environment, where program runs 24/7.
+* **[Updated on 11/26]** Checkout the new [version](socket), which sends client information over socket. 
 
 ## Contributing to this project
 
